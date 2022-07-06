@@ -56,7 +56,7 @@ Talks about: Smart Contracts, Web3, Blockchain, DeFi, NFTs, Security and Metaver
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# Projects:
+# 🎀 Projects:
 
 | Projects 	| Info                             	| Demo                         	| Repo                                                        	|
 |----------	|----------------------------------	|------------------------------	|-------------------------------------------------------------	|
