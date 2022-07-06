@@ -56,6 +56,16 @@ Talks about: Smart Contracts, Web3, Blockchain, DeFi, NFTs, Security and Metaver
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+# Projects:
+
+| Projects 	| Info                             	| Demo                         	| Repo                                                        	|
+|----------	|----------------------------------	|------------------------------	|-------------------------------------------------------------	|
+| krpto    	| blockchain-web3-dapp-send-ethers 	| https://krpto.netlify.app/   	| https://github.com/themanavpaul/krpto-blockhchain-web3-dapp 	|
+| wall-c   	| reactjs-metamask-wallet          	| https://wallc.netlify.app/   	| https://github.com/themanavpaul/wall-c-reactjs-and-metamask 	|
+| one-mint 	| nft-minitng-dapp-openesea        	| https://onemint.netlify.app/ 	| Updating Soon                                               	|
+| wise-men 	| Quote-generator-api-fetch        	| https://wisemen.netlify.app/ 	| Updating Soon                                               	|
+<br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=themanavpaul&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=themanavpaul&theme=dark&hide_border=false)<br/>
