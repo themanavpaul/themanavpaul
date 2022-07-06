@@ -58,12 +58,13 @@ Talks about: Smart Contracts, Web3, Blockchain, DeFi, NFTs, Security and Metaver
 
 # 🎀 Projects:
 
-| Projects 	| Info                             	| Demo                         	| Repo                                                        	|
-|----------	|----------------------------------	|------------------------------	|-------------------------------------------------------------	|
-| krpto    	| blockchain-web3-dapp-send-ethers 	| https://krpto.netlify.app/   	| https://github.com/themanavpaul/krpto-blockhchain-web3-dapp 	|
-| wall-c   	| reactjs-metamask-wallet          	| https://wallc.netlify.app/   	| https://github.com/themanavpaul/wall-c-reactjs-and-metamask 	|
-| one-mint 	| nft-minitng-dapp-openesea        	| https://onemint.netlify.app/ 	| Updating Soon                                               	|
-| wise-men 	| Quote-generator-api-fetch        	| https://wisemen.netlify.app/ 	| Updating Soon                                               	|
+| Projects 	| Info                              	| Demo                         	| Repo                                                        	|
+|----------	|-----------------------------------	|------------------------------	|-------------------------------------------------------------	|
+| krpto    	| blockchain-web3-dapp-send-ethers  	| https://krpto.netlify.app/   	| https://github.com/themanavpaul/krpto-blockhchain-web3-dapp 	|
+| wall-c   	| reactjs-metamask-wallet           	| https://wallc.netlify.app/   	| https://github.com/themanavpaul/wall-c-reactjs-and-metamask 	|
+| one-mint 	| nft-minitng-dapp-openesea         	| https://onemint.netlify.app/ 	| Updating Soon                                               	|
+| wise-men 	| Quote-generator-api-fetch         	| https://wisemen.netlify.app/ 	| Updating Soon                                               	|
+| spotify3 	| Web3-spotify-dapp-mint-music-nfts 	| Building...                  	| Updating Soon                                               	|
 <br>
 
 # 📊 GitHub Stats:
