@@ -8,7 +8,7 @@ Talks about: Smart Contracts, Web3, Blockchain, DeFi, NFTs, Security and Metaver
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/https://twitter.com/themanavpaul) 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://manavpaul.hashnode.dev/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/themanavpaul)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/themanavpaul)
+[![Linktree](https://img.shields.io/badge/linktree-66BFBF?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/themanavpaul)
 
 # 💻 Tech Stack:
 
