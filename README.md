@@ -1,9 +1,10 @@
 # 💫 About Me:
 I am an aspiring Blockchain developer. Working on Web3 DeFi projects. <br>
-Talks about: Smart Contracts, Web3, Blockchain, DeFi, NFTs, Security and Metaverse<br>
+_Talks about_: Smart Contracts, Web3, Blockchain, DeFi, NFTs, Security and Metaverse.<br>
 
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manav-paul/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/https://twitter.com/themanavpaul) 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://manavpaul.hashnode.dev/)
