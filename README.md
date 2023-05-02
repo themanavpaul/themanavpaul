@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am an aspiring Blockchain developer. Working on Web3 DeFi projects. <br>
 _Talks about_: Smart Contracts, Web3, Blockchain, DeFi, NFTs, Security and Metaverse.<br>
+Website : ![Manav Paul](https://manavpaul.netlify.app/)
 
 
 ## 🌐 Socials:
@@ -69,8 +70,10 @@ _Talks about_: Smart Contracts, Web3, Blockchain, DeFi, NFTs, Security and Metav
 | _krpto_      	| blockchain-web3-dapp-send-ethers  	| https://krpto.netlify.app/   	| https://github.com/themanavpaul/krpto-blockhchain-web3-dapp 	|
 | _wall-c_     	| reactjs-metamask-wallet           	| https://wallc.netlify.app/   	| https://github.com/themanavpaul/wall-c-reactjs-and-metamask 	|
 | _one-mint_   	| nft-minitng-dapp-openesea         	| https://onemint.netlify.app/ 	| Updating Soon                                               	|
+| _tetris-game_ | testris-game-c++-sfml-audio         | https://onemint.netlify.app/ 	| https://github.com/themanavpaul/tetris-game                   |
 | _wise-men_   	| Quote-generator-api-fetch         	| https://wisemen.netlify.app/ 	| Updating Soon                                               	|
 | _spotify3_   	| Web3-spotify-dapp-mint-music-nfts 	| Work in progress...         	| Updating Soon                                               	|
+| _mind-game_ 	| JS-game-mind-memory-test           	| https://themanavpaul.github.io/mind-game/ 	| https://github.com/themanavpaul/mind-game)    	|
 <br>
 
 # 📊 GitHub Stats:
