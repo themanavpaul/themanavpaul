@@ -73,7 +73,7 @@ Website : ![Manav Paul](https://manavpaul.netlify.app/)
 | _tetris-game_ | testris-game-c++-sfml-audio         | https://onemint.netlify.app/ 	| https://github.com/themanavpaul/tetris-game                   |
 | _wise-men_   	| Quote-generator-api-fetch         	| https://wisemen.netlify.app/ 	| Updating Soon                                               	|
 | _spotify3_   	| Web3-spotify-dapp-mint-music-nfts 	| Work in progress...         	| Updating Soon                                               	|
-| _mind-game_ 	| JS-game-mind-memory-test           	| https://themanavpaul.github.io/mind-game/ 	| https://github.com/themanavpaul/mind-game)    	|
+| _mind-game_ 	| JS-game-mind-memory-test           	| https://themanavpaul.github.io/mind-game/ 	| https://github.com/themanavpaul/mind-game     	|
 <br>
 
 # 📊 GitHub Stats:
