@@ -77,6 +77,8 @@ Website : https://manavpaul.netlify.app/
 | _mind-game_ 	| JS-game-mind-memory-test           	| https://themanavpaul.github.io/mind-game/ 	| https://github.com/themanavpaul/mind-game     	|
 <br>
 
+[![An image of @themanavpaul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/themanavpaul)](https://holopin.io/@themanavpaul)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=themanavpaul&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=themanavpaul&theme=dark&hide_border=false) 
