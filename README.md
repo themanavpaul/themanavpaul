@@ -68,7 +68,7 @@ Website : https://manavpaul.netlify.app/
 | **Projects** 	|              **Info**             	|           **Demo**           	|                           **Repo**                          	|
 |:------------:	|:---------------------------------:	|:----------------------------:	|:-----------------------------------------------------------:	|
 | _chatur.ai_  	| GPT-4 Article Summarizer           	| https://chaturai.netlify.app/	| Updating Soon                                                	|
-| _Taxi_Fare_Predict_GCP_     | BigQuery ML Forecasting Model  	| https://github.com/themanavpaul/predict_taxi_fare_   	| https://github.com/themanavpaul/predict_taxi_fare_ 	|
+| _Taxi_Fare_Predict_GCP_     | BigQuery ML Forecasting Model  	| [https://github.com/themanavpaul/predict_taxi_fare_](https://github.com/cloud-community-group/predict_taxi_fare_)   	| [https://github.com/themanavpaul/predict_taxi_fare_](https://github.com/cloud-community-group/predict_taxi_fare_) 	|
 | _krpto_      	| blockchain-web3-dapp-send-ethers  	| https://krpto.netlify.app/   	| https://github.com/themanavpaul/krpto-blockhchain-web3-dapp 	|
 | _wall-c_     	| reactjs-metamask-wallet           	| https://wallc.netlify.app/   	| https://github.com/themanavpaul/wall-c-reactjs-and-metamask 	|
 | _one-mint_   	| nft-minitng-dapp-openesea         	| https://onemint.netlify.app/ 	| Updating Soon                                               	|
