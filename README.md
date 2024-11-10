@@ -67,8 +67,8 @@ Website : https://manavpaul.netlify.app/
 
 | **Projects** 	|              **Info**             	|           **Demo**           	|                           **Repo**                          	|
 |:------------:	|:---------------------------------:	|:----------------------------:	|:-----------------------------------------------------------:	|
-| _chatur.ai_  	| AI Health Consultant              	| https://keen-taffy-a62363.netlify.app/	| Updating Soon                                                	|
-| _chatur.ai_  	| AI Cybersecurity Consultant         | https://rakhshaai.netlify.app/	| Updating Soon                                                	|
+| _chatur.ai_  	| AI Health Consultant              	| https://keen-taffy-a62363.netlify.app/	| Updating Soon                                     	|
+| _chatur.ai_  	| AI Cybersecurity Consultant         | https://rakhshaai.netlify.app/	| ttps://github.com/themanavpaul/project-raksha             	|
 | _chatur.ai_  	| GPT-4 Article Summarizer           	| https://chaturai.netlify.app/	| Updating Soon                                                	|
 | _Taxi_Fare_Predict_GCP_     | BigQuery ML Forecasting Model  	| [https://github.com/themanavpaul/predict_taxi_fare_](https://github.com/cloud-community-group/predict_taxi_fare_)   	| [https://github.com/themanavpaul/predict_taxi_fare_](https://github.com/cloud-community-group/predict_taxi_fare_) 	|
 | _krpto_      	| blockchain-web3-dapp-send-ethers  	| https://krpto.netlify.app/   	| https://github.com/themanavpaul/krpto-blockhchain-web3-dapp 	|
