@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an aspiring Blockchain developer. Working on Web3 DeFi projects. <br>
+I love building GenAI, Cloud Web applications. <br>
 _Talks about_: Smart Contracts, Web3, Blockchain, DeFi, NFTs, Security and Metaverse.<br>
 Website : https://manavpaul.netlify.app/
 
