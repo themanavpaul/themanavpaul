@@ -1,7 +1,8 @@
 # 💫 About Me:
 I love building GenAI, Cloud Web applications. <br>
 _Talks about_: Smart Contracts, Web3, Blockchain, DeFi, NFTs, Security and Metaverse.<br>
-Website : https://manavpaul.netlify.app/
+Website : https://themanavpaul.framer.website/
+# <!-- Website : https://manavpaul.netlify.app/ -->
 
 
 ## 🌐 Socials:
