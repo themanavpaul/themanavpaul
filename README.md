@@ -1,14 +1,17 @@
 # 💫 About Me:
+_Namaste_, I'm **Manav Paul**.  <br>
+I'm a Spiritual Developer from Chandigarh, India. _(Yoga instructor by day, Developer by night)_.  <br>
 I love building GenAI, Cloud Web applications. <br>
-_Talks about_: Smart Contracts, Web3, Blockchain, DeFi, NFTs, Security and Metaverse.<br>
-Website : https://themanavpaul.framer.website/
+_Talks about_: GenAI, Smart Contracts, Cloud, Blockchain, Cybersecurity, NFTs.<br>
+Website : https://themanavpaul.framer.website/ <br>
+Youtube : https://www.youtube.com/watch?v=xsPSaGd6Lp4
 # <!-- Website : https://manavpaul.netlify.app/ -->
 
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manav-paul/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/https://twitter.com/themanavpaul) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manav-paul/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/themanavpaul) 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://manavpaul.hashnode.dev/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/themanavpaul)
 [![Linktree](https://img.shields.io/badge/linktree-66BFBF?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/themanavpaul)
@@ -31,10 +34,10 @@ Website : https://themanavpaul.framer.website/
 ## Framework/Platform/Libraries:
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
@@ -42,9 +45,6 @@ Website : https://themanavpaul.framer.website/
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 
 
 ## Design:
@@ -68,8 +68,9 @@ Website : https://themanavpaul.framer.website/
 
 | **Projects** 	|              **Info**             	|           **Demo**           	|                           **Repo**                          	|
 |:------------:	|:---------------------------------:	|:----------------------------:	|:-----------------------------------------------------------:	|
-| _chatur.ai_  	| AI Health Consultant              	| https://keen-taffy-a62363.netlify.app/	| Updating Soon                                     	|
-| _chatur.ai_  	| AI Cybersecurity Consultant         | https://rakhshaai.netlify.app/	| ttps://github.com/themanavpaul/project-raksha             	|
+| _ImageSensei_  	| AI Image Generation              	| https://theimagesensei.lovable.app/	| https://github.com/themanavpaul/theimagesensei         	|
+| _Yogi-G_  	| AI Health Consultant              	| https://keen-taffy-a62363.netlify.app/	| Updating Soon                                     	|
+| _Raksha.ai_ (in-maintenance) 	| AI Cybersecurity Consultant         | https://rakhshaai.netlify.app/	| https://github.com/themanavpaul/project-raksha             	|
 | _chatur.ai_  	| GPT-4 Article Summarizer           	| https://chaturai.netlify.app/	| Updating Soon                                                	|
 | _Taxi_Fare_Predict_GCP_     | BigQuery ML Forecasting Model  	| [https://github.com/themanavpaul/predict_taxi_fare_](https://github.com/cloud-community-group/predict_taxi_fare_)   	| [https://github.com/themanavpaul/predict_taxi_fare_](https://github.com/cloud-community-group/predict_taxi_fare_) 	|
 | _krpto_      	| blockchain-web3-dapp-send-ethers  	| https://krpto.netlify.app/   	| https://github.com/themanavpaul/krpto-blockhchain-web3-dapp 	|
