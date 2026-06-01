@@ -1,10 +1,9 @@
 # 👋 Namaste, I'm Manav Paul  
 
-💡 **Spiritual Developer** from Chandigarh, India — *Yoga instructor by day, Developer by night*.  
-I build **GenAI applications, Cloud solutions, and Blockchain dApps**.  
+💡I build **GenAI applications, SaaS Workflows and AI Native PLatforms**.  
 
-🔭 Currently exploring **AI x Web** integrations.  
-🎙 Talks about: GenAI · Cloud · Blockchain · Cybersecurity  
+🔭 Currently building Ai Native Agency.
+🎙 Talks about: GenAI · Media Prodction · LLMs 
 
 🌐 **Portfolio:** [themanavpaul.framer.website](https://themanavpaul.framer.website)  
 🎥 **YouTube:** [@themanavpaul](https://www.youtube.com/@themanavpaul)  
